@@ -1,0 +1,3 @@
+/* SVG Loading  */svg path,svg rect{fill:#000}
+
+/*animaciones*/.animated{-webkit-animation-duration:.5s;-webkit-animation-fill-mode:both;animation-fill-mode:both}@-webkit-keyframes fadeIn{0%{opacity:0}to{opacity:1}}@keyframes fadeIn{0%{opacity:0}to{opacity:1}}.fadeIn{-webkit-animation-name:fadeIn;animation-name:fadeIn}
